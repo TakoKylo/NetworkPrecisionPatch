@@ -1,6 +1,6 @@
 # Chunked Network Sync — design notes
 
-This folder is a self-contained record of the chunked-sync system that lets `OpenWorldPracticeMod` extend Puck's networked position range beyond the vanilla ~50 m wrap-around while keeping vanilla 1.5 mm precision. The four source files live in `src/Net/` in the main project; copies are duplicated here so the writeup and the code travel together.
+This folder is a self-contained record of the chunked-sync system that lets `OpenWorldPracticeMod` & `CompetitiveAdjustments` Cop extend Puck's networked position range beyond the vanilla ~50 m wrap-around while keeping vanilla 1.5 mm precision. The four source files live in `src/Net/` in the main project; copies are duplicated here so the writeup and the code travel together.
 
 ## The problem
 
